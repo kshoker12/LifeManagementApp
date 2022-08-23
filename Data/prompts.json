@@ -1,0 +1,524 @@
+{
+    "weeklyPrompt": {
+        "promptList": [
+            {
+                "question": "What did I do best this week?",
+                "answers": "",
+                "id": 1,
+                "complete": false,
+                "day": "Week"
+            },
+            {
+                "question": "Achievements & Accomplishments",
+                "answers": "",
+                "id": 2,
+                "complete": false,
+                "day": "Week"
+            },
+            {
+                "question": "Highlights of the week",
+                "answers": "",
+                "id": 3,
+                "complete": false,
+                "day": "Week"
+            },
+            {
+                "question": "Social Interactions",
+                "answers": "",
+                "id": 4,
+                "complete": false,
+                "day": "Week"
+            },
+            {
+                "question": "What was my favourite part of the week?",
+                "answers": "",
+                "id": 5,
+                "complete": false,
+                "day": "Week"
+            },
+            {
+                "question": "Improvements for next week?",
+                "answers": "",
+                "id": 6,
+                "complete": false,
+                "day": "Week"
+            },
+            {
+                "question": "Right Direction?",
+                "answers": "",
+                "id": 7,
+                "complete": false,
+                "day": "Week"
+            },
+            {
+                "question": "Happiness ",
+                "answers": "",
+                "id": 8,
+                "complete": false,
+                "day": "Week"
+            },
+            {
+                "question": "What was the funniest part of the week?",
+                "answers": "",
+                "id": 9,
+                "complete": false,
+                "day": "Week"
+            },
+            {
+                "question": "Satisfaction",
+                "answers": "",
+                "id": 10,
+                "complete": false,
+                "day": "Week"
+            }
+        ],
+        "currId": 11
+    },
+    "log": [
+        {
+            "promptList": [
+                {
+                    "question": "What did I do best today?",
+                    "answers": "",
+                    "id": 1,
+                    "complete": false,
+                    "day": "Monday"
+                },
+                {
+                    "question": "What was the funniest part of the day?",
+                    "answers": "",
+                    "id": 2,
+                    "complete": false,
+                    "day": "Monday"
+                },
+                {
+                    "question": "What did I learn about myself",
+                    "answers": "",
+                    "id": 3,
+                    "complete": false,
+                    "day": "Monday"
+                },
+                {
+                    "question": "What did I learn about others?",
+                    "answers": "",
+                    "id": 4,
+                    "complete": false,
+                    "day": "Monday"
+                },
+                {
+                    "question": "What could I have done better?",
+                    "answers": "",
+                    "id": 5,
+                    "complete": false,
+                    "day": "Monday"
+                },
+                {
+                    "question": "Did I move in the right direction?",
+                    "answers": "",
+                    "id": 6,
+                    "complete": false,
+                    "day": "Monday"
+                },
+                {
+                    "question": "What was my favourite part of the day?",
+                    "answers": "",
+                    "id": 7,
+                    "complete": false,
+                    "day": "Monday"
+                },
+                {
+                    "question": "What am I thankful for today?",
+                    "answers": "",
+                    "id": 8,
+                    "complete": false,
+                    "day": "Monday"
+                }
+            ],
+            "complete": true,
+            "day": "Monday"
+        },
+        {
+            "promptList": [
+                {
+                    "question": "What did I do best today?",
+                    "answers": "",
+                    "id": 1,
+                    "complete": false,
+                    "day": "Tuesday"
+                },
+                {
+                    "question": "What was the funniest part of the day?",
+                    "answers": "",
+                    "id": 2,
+                    "complete": false,
+                    "day": "Tuesday"
+                },
+                {
+                    "question": "What did I learn about myself",
+                    "answers": "",
+                    "id": 3,
+                    "complete": false,
+                    "day": "Tuesday"
+                },
+                {
+                    "question": "What did I learn about others?",
+                    "answers": "",
+                    "id": 4,
+                    "complete": false,
+                    "day": "Tuesday"
+                },
+                {
+                    "question": "What could I have done better?",
+                    "answers": "",
+                    "id": 5,
+                    "complete": false,
+                    "day": "Tuesday"
+                },
+                {
+                    "question": "Did I move in the right direction?",
+                    "answers": "",
+                    "id": 6,
+                    "complete": false,
+                    "day": "Tuesday"
+                },
+                {
+                    "question": "What was my favourite part of the day?",
+                    "answers": "",
+                    "id": 7,
+                    "complete": false,
+                    "day": "Tuesday"
+                },
+                {
+                    "question": "What am I thankful for today?",
+                    "answers": "",
+                    "id": 8,
+                    "complete": false,
+                    "day": "Tuesday"
+                }
+            ],
+            "complete": false,
+            "day": "Tuesday"
+        },
+        {
+            "promptList": [
+                {
+                    "question": "What did I do best today?",
+                    "answers": "",
+                    "id": 1,
+                    "complete": false,
+                    "day": "Wednesday"
+                },
+                {
+                    "question": "What was the funniest part of the day?",
+                    "answers": "",
+                    "id": 2,
+                    "complete": false,
+                    "day": "Wednesday"
+                },
+                {
+                    "question": "What did I learn about myself",
+                    "answers": "",
+                    "id": 3,
+                    "complete": false,
+                    "day": "Wednesday"
+                },
+                {
+                    "question": "What did I learn about others?",
+                    "answers": "",
+                    "id": 4,
+                    "complete": false,
+                    "day": "Wednesday"
+                },
+                {
+                    "question": "What could I have done better?",
+                    "answers": "",
+                    "id": 5,
+                    "complete": false,
+                    "day": "Wednesday"
+                },
+                {
+                    "question": "Did I move in the right direction?",
+                    "answers": "",
+                    "id": 6,
+                    "complete": false,
+                    "day": "Wednesday"
+                },
+                {
+                    "question": "What was my favourite part of the day?",
+                    "answers": "",
+                    "id": 7,
+                    "complete": false,
+                    "day": "Wednesday"
+                },
+                {
+                    "question": "What am I thankful for today?",
+                    "answers": "",
+                    "id": 8,
+                    "complete": false,
+                    "day": "Wednesday"
+                }
+            ],
+            "complete": false,
+            "day": "Wednesday"
+        },
+        {
+            "promptList": [
+                {
+                    "question": "What did I do best today?",
+                    "answers": "",
+                    "id": 1,
+                    "complete": false,
+                    "day": "Thursday"
+                },
+                {
+                    "question": "What was the funniest part of the day?",
+                    "answers": "",
+                    "id": 2,
+                    "complete": false,
+                    "day": "Thursday"
+                },
+                {
+                    "question": "What did I learn about myself",
+                    "answers": "",
+                    "id": 3,
+                    "complete": false,
+                    "day": "Thursday"
+                },
+                {
+                    "question": "What did I learn about others?",
+                    "answers": "",
+                    "id": 4,
+                    "complete": false,
+                    "day": "Thursday"
+                },
+                {
+                    "question": "What could I have done better?",
+                    "answers": "",
+                    "id": 5,
+                    "complete": false,
+                    "day": "Thursday"
+                },
+                {
+                    "question": "Did I move in the right direction?",
+                    "answers": "",
+                    "id": 6,
+                    "complete": false,
+                    "day": "Thursday"
+                },
+                {
+                    "question": "What was my favourite part of the day?",
+                    "answers": "",
+                    "id": 7,
+                    "complete": false,
+                    "day": "Thursday"
+                },
+                {
+                    "question": "What am I thankful for today?",
+                    "answers": "",
+                    "id": 8,
+                    "complete": false,
+                    "day": "Thursday"
+                }
+            ],
+            "complete": false,
+            "day": "Thursday"
+        },
+        {
+            "promptList": [
+                {
+                    "question": "What did I do best today?",
+                    "answers": "",
+                    "id": 1,
+                    "complete": false,
+                    "day": "Friday"
+                },
+                {
+                    "question": "What was the funniest part of the day?",
+                    "answers": "",
+                    "id": 2,
+                    "complete": false,
+                    "day": "Friday"
+                },
+                {
+                    "question": "What did I learn about myself",
+                    "answers": "",
+                    "id": 3,
+                    "complete": false,
+                    "day": "Friday"
+                },
+                {
+                    "question": "What did I learn about others?",
+                    "answers": "",
+                    "id": 4,
+                    "complete": false,
+                    "day": "Friday"
+                },
+                {
+                    "question": "What could I have done better?",
+                    "answers": "",
+                    "id": 5,
+                    "complete": false,
+                    "day": "Friday"
+                },
+                {
+                    "question": "Did I move in the right direction?",
+                    "answers": "",
+                    "id": 6,
+                    "complete": false,
+                    "day": "Friday"
+                },
+                {
+                    "question": "What was my favourite part of the day?",
+                    "answers": "",
+                    "id": 7,
+                    "complete": false,
+                    "day": "Friday"
+                },
+                {
+                    "question": "What am I thankful for today?",
+                    "answers": "",
+                    "id": 8,
+                    "complete": false,
+                    "day": "Friday"
+                }
+            ],
+            "complete": false,
+            "day": "Friday"
+        },
+        {
+            "promptList": [
+                {
+                    "question": "What did I do best today?",
+                    "answers": "",
+                    "id": 1,
+                    "complete": false,
+                    "day": "Saturday"
+                },
+                {
+                    "question": "What was the funniest part of the day?",
+                    "answers": "",
+                    "id": 2,
+                    "complete": false,
+                    "day": "Saturday"
+                },
+                {
+                    "question": "What did I learn about myself",
+                    "answers": "",
+                    "id": 3,
+                    "complete": false,
+                    "day": "Saturday"
+                },
+                {
+                    "question": "What did I learn about others?",
+                    "answers": "",
+                    "id": 4,
+                    "complete": false,
+                    "day": "Saturday"
+                },
+                {
+                    "question": "What could I have done better?",
+                    "answers": "",
+                    "id": 5,
+                    "complete": false,
+                    "day": "Saturday"
+                },
+                {
+                    "question": "Did I move in the right direction?",
+                    "answers": "",
+                    "id": 6,
+                    "complete": false,
+                    "day": "Saturday"
+                },
+                {
+                    "question": "What was my favourite part of the day?",
+                    "answers": "",
+                    "id": 7,
+                    "complete": false,
+                    "day": "Saturday"
+                },
+                {
+                    "question": "What am I thankful for today?",
+                    "answers": "",
+                    "id": 8,
+                    "complete": false,
+                    "day": "Saturday"
+                }
+            ],
+            "complete": false,
+            "day": "Saturday"
+        },
+        {
+            "promptList": [
+                {
+                    "question": "What did I do best today?",
+                    "answers": "",
+                    "id": 1,
+                    "complete": false,
+                    "day": "Sunday"
+                },
+                {
+                    "question": "What was the funniest part of the day?",
+                    "answers": "",
+                    "id": 2,
+                    "complete": false,
+                    "day": "Sunday"
+                },
+                {
+                    "question": "What did I learn about myself",
+                    "answers": "",
+                    "id": 3,
+                    "complete": false,
+                    "day": "Sunday"
+                },
+                {
+                    "question": "What did I learn about others?",
+                    "answers": "",
+                    "id": 4,
+                    "complete": false,
+                    "day": "Sunday"
+                },
+                {
+                    "question": "What could I have done better?",
+                    "answers": "",
+                    "id": 5,
+                    "complete": false,
+                    "day": "Sunday"
+                },
+                {
+                    "question": "Did I move in the right direction?",
+                    "answers": "",
+                    "id": 6,
+                    "complete": false,
+                    "day": "Sunday"
+                },
+                {
+                    "question": "What was my favourite part of the day?",
+                    "answers": "",
+                    "id": 7,
+                    "complete": false,
+                    "day": "Sunday"
+                },
+                {
+                    "question": "What am I thankful for today?",
+                    "answers": "",
+                    "id": 8,
+                    "complete": false,
+                    "day": "Sunday"
+                }
+            ],
+            "complete": false,
+            "day": "Sunday"
+        }
+    ],
+    "name": "Karn's Prompts",
+    "promptQuestions": [
+        "What did I do best today?",
+        "What was the funniest part of the day?",
+        "What did I learn about myself",
+        "What did I learn about others?",
+        "What could I have done better?",
+        "Did I move in the right direction?",
+        "What was my favourite part of the day?",
+        "What am I thankful for today?"
+    ]
+}

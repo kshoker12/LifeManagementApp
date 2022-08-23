@@ -1,0 +1,68 @@
+{
+    "destinationList": [
+        {
+            "earned": -1,
+            "name": "4 Hours Daily",
+            "finish": false,
+            "point": 10
+        },
+        {
+            "earned": -1,
+            "name": "Read Design Patterns",
+            "finish": false,
+            "point": 9
+        },
+        {
+            "earned": -1,
+            "name": "Read Rules Daily",
+            "finish": false,
+            "point": 8
+        },
+        {
+            "earned": -1,
+            "name": "Train Daily",
+            "finish": false,
+            "point": 7
+        },
+        {
+            "earned": -1,
+            "name": "Meditate Daily",
+            "finish": false,
+            "point": 6
+        },
+        {
+            "earned": -1,
+            "name": "1200+ Chess",
+            "finish": false,
+            "point": 5
+        },
+        {
+            "earned": -1,
+            "name": "Frame Control",
+            "finish": false,
+            "point": 4
+        },
+        {
+            "earned": -1,
+            "name": "Hair Shower",
+            "finish": false,
+            "point": 3
+        },
+        {
+            "earned": -1,
+            "name": "Skin-Care",
+            "finish": false,
+            "point": 2
+        },
+        {
+            "earned": -1,
+            "name": "Plank Daily",
+            "finish": false,
+            "point": 1
+        }
+    ],
+    "percentage": 0,
+    "name": "Karn's Compass",
+    "totalPoints": 55,
+    "earnedPoints": 0
+}

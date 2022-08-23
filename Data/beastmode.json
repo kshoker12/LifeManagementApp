@@ -1,0 +1,863 @@
+{
+    "hours": 4,
+    "responsibilities": [
+        {
+            "repeatedTasks": [],
+            "hours": 0,
+            "name": "Reading",
+            "tasks": [
+                {
+                    "duration": 240,
+                    "subTasks": [
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "KOs & Power Punching",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Jab Drills",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Combinations",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Beat Punching",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Defensive Concepts",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Defense Mechanism",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Isolation & Touch Sparring",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Feinting",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Drawing",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Pivoting & Waltzing",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Shifting",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Shuffling",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Caught on the ropes",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Infighting & Shelling up",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Clinching",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Boxing Technique",
+                            "name": "Ring Generalship",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "Boxing Technique",
+                    "isRepeated": false,
+                    "Responsibility": "Reading",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 720,
+                    "subTasks": [
+                        {
+                            "duration": 60,
+                            "task": "The Art Of Strategy",
+                            "name": "Economic Consideration",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "The Art Of Strategy",
+                            "name": "Avoiding Competition",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "The Art Of Strategy",
+                            "name": "Competitive Positioning",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "The Art Of Strategy",
+                            "name": "Enhanced Advantage",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "The Art Of Strategy",
+                            "name": "Unique Positioning",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "The Art Of Strategy",
+                            "name": "Overcoming Disadvantages",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "The Art Of Strategy",
+                            "name": "Strategic Flexibility",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "The Art Of Strategy",
+                            "name": "Extended Strategies",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "The Art Of Strategy",
+                            "name": "Location Advantage",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "The Art Of Strategy",
+                            "name": "International Strategy",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "The Art Of Strategy",
+                            "name": "Superior Power",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "The Art Of Strategy",
+                            "name": "Informational Advantage",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "The Art Of Strategy",
+                    "isRepeated": false,
+                    "Responsibility": "Reading",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 0,
+                    "subTasks": [],
+                    "name": "IQ Book",
+                    "isRepeated": false,
+                    "Responsibility": "Reading",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 700,
+                    "subTasks": [
+                        {
+                            "duration": 140,
+                            "task": "Mind to Matter",
+                            "name": "How Our Brain Shape the World",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 80,
+                            "task": "Mind to Matter",
+                            "name": "How energy builds matter",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 80,
+                            "task": "Mind to Matter",
+                            "name": "Emotions Environment",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 80,
+                            "task": "Mind to Matter",
+                            "name": "Energy DNA Cells",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 80,
+                            "task": "Mind to Matter",
+                            "name": "Coherent Mind",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 80,
+                            "task": "Mind to Matter",
+                            "name": "Self + Synchronisity",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 80,
+                            "task": "Mind to Matter",
+                            "name": "Beyond Local Mind",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 80,
+                            "task": "Mind to Matter",
+                            "name": "Conclusion",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "Mind to Matter",
+                    "isRepeated": false,
+                    "Responsibility": "Reading",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 0,
+                    "subTasks": [],
+                    "name": "The Art Of War",
+                    "isRepeated": false,
+                    "Responsibility": "Reading",
+                    "isCompleted": false
+                }
+            ]
+        },
+        {
+            "repeatedTasks": [],
+            "hours": 1,
+            "name": "Training",
+            "tasks": [
+                {
+                    "duration": 80,
+                    "subTasks": [
+                        {
+                            "duration": 20,
+                            "task": "Monday Session",
+                            "name": "Meditate",
+                            "isCompleted": true
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Monday Session",
+                            "name": "Cardio",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Monday Session",
+                            "name": "Boxing",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "Monday Session",
+                    "isRepeated": true,
+                    "Responsibility": "Training",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 80,
+                    "subTasks": [
+                        {
+                            "duration": 20,
+                            "task": "Tuesday Session",
+                            "name": "Meditate",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Tuesday Session",
+                            "name": "Boxing",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Tuesday Session",
+                            "name": "Biceps + Triceps",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "Tuesday Session",
+                    "isRepeated": true,
+                    "Responsibility": "Training",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 80,
+                    "subTasks": [
+                        {
+                            "duration": 20,
+                            "task": "Wednesday Session",
+                            "name": "Meditate",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Wednesday Session",
+                            "name": "Cardio",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Wednesday Session",
+                            "name": "Boxing",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "Wednesday Session",
+                    "isRepeated": true,
+                    "Responsibility": "Training",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 80,
+                    "subTasks": [
+                        {
+                            "duration": 20,
+                            "task": "Thursday Session",
+                            "name": "Meditate",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Thursday Session",
+                            "name": "Boxing",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Thursday Session",
+                            "name": "Chest + Back",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "Thursday Session",
+                    "isRepeated": true,
+                    "Responsibility": "Training",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 80,
+                    "subTasks": [
+                        {
+                            "duration": 20,
+                            "task": "Friday Session",
+                            "name": "Meditate",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Friday Session",
+                            "name": "Cardio",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Friday Session",
+                            "name": "Boxing",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "Friday Session",
+                    "isRepeated": true,
+                    "Responsibility": "Training",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 80,
+                    "subTasks": [
+                        {
+                            "duration": 20,
+                            "task": "Saturday Session",
+                            "name": "Meditate",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Saturday Session",
+                            "name": "Boxing",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Saturday Session",
+                            "name": "Shoulders + Legs",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "Saturday Session",
+                    "isRepeated": true,
+                    "Responsibility": "Training",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 80,
+                    "subTasks": [
+                        {
+                            "duration": 20,
+                            "task": "Sunday Session",
+                            "name": "Meditate",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Sunday Session",
+                            "name": "Cardio",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Sunday Session",
+                            "name": "Boxing",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "Sunday Session",
+                    "isRepeated": true,
+                    "Responsibility": "Training",
+                    "isCompleted": false
+                }
+            ]
+        },
+        {
+            "repeatedTasks": [],
+            "hours": 2,
+            "name": "Software Design",
+            "tasks": [{
+                "duration": 660,
+                "subTasks": [
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Abstract Factory",
+                        "isCompleted": true
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Builder",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Prototype",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Singleton",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Adapter",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Bridge",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Composite",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Decorator",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Facade",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Flyweight",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Proxy",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Chain of responsibility",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Command",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Interpreter",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Iterator",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Mediator",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Memento",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Observer",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "State",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Strategy ",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Template Method",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 30,
+                        "task": "Design Patterns",
+                        "name": "Visitor",
+                        "isCompleted": false
+                    }
+                ],
+                "name": "Design Patterns",
+                "isRepeated": false,
+                "Responsibility": "Software Design",
+                "isCompleted": false
+            }]
+        },
+        {
+            "repeatedTasks": [],
+            "hours": 0,
+            "name": "School Prep",
+            "tasks": [
+                {
+                    "duration": 120,
+                    "subTasks": [
+                        {
+                            "duration": 60,
+                            "task": "Co-op",
+                            "name": "Research Co-op oppurtunities",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "Co-op",
+                            "name": "Related with my schedule",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "Co-op",
+                    "isRepeated": false,
+                    "Responsibility": "School Prep",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 30,
+                    "subTasks": [{
+                        "duration": 30,
+                        "task": "Rules",
+                        "name": "Concise each rule",
+                        "isCompleted": false
+                    }],
+                    "name": "Rules",
+                    "isRepeated": false,
+                    "Responsibility": "School Prep",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 30,
+                    "subTasks": [{
+                        "duration": 30,
+                        "task": "Notes Business",
+                        "name": "Lecture Affirmations",
+                        "isCompleted": false
+                    }],
+                    "name": "Notes Business",
+                    "isRepeated": false,
+                    "Responsibility": "School Prep",
+                    "isCompleted": false
+                }
+            ]
+        },
+        {
+            "repeatedTasks": [],
+            "hours": 0,
+            "name": "Family",
+            "tasks": [{
+                "duration": 140,
+                "subTasks": [
+                    {
+                        "duration": 40,
+                        "task": "Setup Gym",
+                        "name": "Setup side",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 60,
+                        "task": "Setup Gym",
+                        "name": "Grab all Material",
+                        "isCompleted": false
+                    },
+                    {
+                        "duration": 40,
+                        "task": "Setup Gym",
+                        "name": "Wrap up",
+                        "isCompleted": false
+                    }
+                ],
+                "name": "Setup Gym",
+                "isRepeated": false,
+                "Responsibility": "Family",
+                "isCompleted": false
+            }]
+        },
+        {
+            "repeatedTasks": [],
+            "hours": 1,
+            "name": "LifeStyle",
+            "tasks": [
+                {
+                    "duration": 420,
+                    "subTasks": [
+                        {
+                            "duration": 60,
+                            "task": "Chess",
+                            "name": "Monday Chess Session",
+                            "isCompleted": true
+                        },
+                        {
+                            "duration": 60,
+                            "task": "Chess",
+                            "name": "Tuesday Chess Session",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "Chess",
+                            "name": "Wednesday Chess Session",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "Chess",
+                            "name": "Thursday Chess Session",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "Chess",
+                            "name": "Friday Chess Session",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "Chess",
+                            "name": "Saturday Chess Session",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 60,
+                            "task": "Chess",
+                            "name": "Sunday Chess Session",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "Chess",
+                    "isRepeated": true,
+                    "Responsibility": "LifeStyle",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 210,
+                    "subTasks": [
+                        {
+                            "duration": 30,
+                            "task": "Solutions",
+                            "name": "Monday Solutions",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Solutions",
+                            "name": "Tuesday Solutions",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Solutions",
+                            "name": "Wednesday Solutions",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Solutions",
+                            "name": "Thursday Solutions",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Solutions",
+                            "name": "Friday Solutions",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Solutions",
+                            "name": "Saturday Solutions",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 30,
+                            "task": "Solutions",
+                            "name": "Sunday Solutions",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "Solutions",
+                    "isRepeated": true,
+                    "Responsibility": "LifeStyle",
+                    "isCompleted": false
+                },
+                {
+                    "duration": 105,
+                    "subTasks": [
+                        {
+                            "duration": 15,
+                            "task": "Values4Success",
+                            "name": "Monday Post",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Values4Success",
+                            "name": "Tuesday Post",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Values4Success",
+                            "name": "Wednesday Post",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Values4Success",
+                            "name": "Thursday Post",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Values4Success",
+                            "name": "Friday Post",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Values4Success",
+                            "name": "Saturday Post",
+                            "isCompleted": false
+                        },
+                        {
+                            "duration": 15,
+                            "task": "Values4Success",
+                            "name": "Sunday Post",
+                            "isCompleted": false
+                        }
+                    ],
+                    "name": "Values4Success",
+                    "isRepeated": true,
+                    "Responsibility": "LifeStyle",
+                    "isCompleted": false
+                }
+            ]
+        }
+    ],
+    "todoList": [],
+    "hourlyList": {"subTaskList": []},
+    "hourNum": {"hour": 1},
+    "name": "beastmode"
+}

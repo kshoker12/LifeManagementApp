@@ -1,0 +1,60 @@
+{
+    "traitList": [
+        {
+            "image": "./Data/hustler.jpg",
+            "name": "Hustler",
+            "description": "I give it my all when it comes to \nwhat I want in life & have shown \ntime & time again that I am a \nhustler. Whatever the issue is, I \ncan trust myself to rise to the \noccasion & deliver no matter \nwhat the task at hand is. "
+        },
+        {
+            "image": "./Data/soothtalker.jpg",
+            "name": "Smooth Talker",
+            "description": "I am a very good-talker & can turn any conversation in my favour. \nI can literally hold a solid convo \nwith anyone on the planet & I am \nvery confident. I make the convo \nentertaining & fun, as well as \nbeneficial. "
+        },
+        {
+            "image": "./Data/gamer.jpg",
+            "name": "Gamer",
+            "description": "I am smooth with girls & they are\nattracted to my confidence. I am a\ngreat texter & I am very good at \nbantering & flirting. Wherever I go, \ngirls are attracted to me & I am the ladies favourite. I am also sexually smart. "
+        },
+        {
+            "image": "./Data/over-achiever.jpg",
+            "name": "Over-Achiever",
+            "description": "I always strive to be the best at \nwhatever I choose to do in life. I'm \nvery competitive & aim to make it \nto the top & be the top boy. I \nachieve great heights in life by\nbeing persistent & never quitting. \nGod wants me to win & things \nalways turn out in my favour."
+        },
+        {
+            "image": "./Data/alpha.jpg",
+            "name": "Alpha",
+            "description": "I am the alpha & show great \nleadership skills. People respect me & my presence is felt. I'm a \nman of value & people strive to be\nlike me. I'm outcome independent & win or lose, I stay in my frame. "
+        },
+        {
+            "image": "./Data/intelligent.jpg",
+            "name": "Intelligent",
+            "description": "I am very smart in every situation \nin life. I have social intelligence as well as great decision-making \nskills. I always stay a step ahead & analyze situations smartly. I have great  IQ & see things others may not be able to right away. "
+        },
+        {
+            "image": "./Data/real.jpg",
+            "name": "Real",
+            "description": "I always do the right thing & keep \nit real. I am brutally honest. I \nremain loyal to those who are \nloyal to me. I always stay loyal to \ngod & stay humble because god \ngave me everything I have today & without him I would be a nobody."
+        },
+        {
+            "image": "./Data/tonyFerg.jpg",
+            "name": "Fighter",
+            "description": "I am a great technical boxer with \nlot of skills. I am also a great \nwrestler with very good cardio. I \nhave solid kicks too. I never give \nup in any area in life & look the \nchallenge right in the eyes. "
+        },
+        {
+            "image": "./Data/charismatic.jpg",
+            "name": "Charismatic",
+            "description": "My charisma is like a magnet & \npeople are instantly drawn to me. Iradiate an amazing aura which \nmakes people laugh & happy. I \nsay the right things & make \npeople curious. "
+        },
+        {
+            "image": "./Data/gifted.jpg",
+            "name": "Gifted",
+            "description": "In every area in life, if I truly put mymind into it, that area grows & I \ncan master that skill. I am a quick \nlearner & learn with an iterative \nprocess through failure. I have \ngod-gifted talent to truly help me make it in life, it's up to me to use \nthese abilities wisely. "
+        },
+        {
+            "image": "./Data/creative.jpg",
+            "name": "Creative",
+            "description": "I am very innovative & get \namazing ideas to improve my life. Iimprovise when needed & come \nup with creative solutions using \nmy creative mechanism. God \nguides me & gives me unique & \nnext level ideas to truly succeed inlife. "
+        }
+    ],
+    "name": "Karn's Self-Image"
+}

@@ -1,0 +1,210 @@
+{
+    "name": "Karn's Ratings",
+    "rating": 56.6,
+    "categories": [
+        {
+            "name": "Mental Toughness",
+            "rating": 59.7,
+            "attributes": [
+                {
+                    "weeklyRatings": [7],
+                    "name": "Determination",
+                    "rating": 60.7,
+                    "category": "Mental Toughness"
+                },
+                {
+                    "weeklyRatings": [6],
+                    "name": "Fearlessness",
+                    "rating": 60.8,
+                    "category": "Mental Toughness"
+                },
+                {
+                    "weeklyRatings": [7],
+                    "name": "Courage",
+                    "rating": 60.8,
+                    "category": "Mental Toughness"
+                },
+                {
+                    "weeklyRatings": [6],
+                    "name": "Emotional Intelligence",
+                    "rating": 56.4,
+                    "category": "Mental Toughness"
+                }
+            ]
+        },
+        {
+            "name": "Mindset",
+            "rating": 59.9,
+            "attributes": [
+                {
+                    "weeklyRatings": [7],
+                    "name": "Focus",
+                    "rating": 58.6,
+                    "category": "Mindset"
+                },
+                {
+                    "weeklyRatings": [7],
+                    "name": "Positive Thoughts",
+                    "rating": 60.4,
+                    "category": "Mindset"
+                },
+                {
+                    "weeklyRatings": [7],
+                    "name": "Motivation",
+                    "rating": 59.9,
+                    "category": "Mindset"
+                },
+                {
+                    "weeklyRatings": [6],
+                    "name": "Decision Making",
+                    "rating": 58.7,
+                    "category": "Mindset"
+                },
+                {
+                    "weeklyRatings": [7],
+                    "name": "Confidence",
+                    "rating": 61.1,
+                    "category": "Mindset"
+                },
+                {
+                    "weeklyRatings": [7],
+                    "name": "Self Talk",
+                    "rating": 60.5,
+                    "category": "Mindset"
+                },
+                {
+                    "weeklyRatings": [7],
+                    "name": "Loyalty",
+                    "rating": 60.1,
+                    "category": "Mindset"
+                }
+            ]
+        },
+        {
+            "name": "Work Ethic",
+            "rating": 48.4,
+            "attributes": [
+                {
+                    "weeklyRatings": [6],
+                    "name": "Productivity",
+                    "rating": 53.6,
+                    "category": "Work Ethic"
+                },
+                {
+                    "weeklyRatings": [6],
+                    "name": "Academic Skills",
+                    "rating": 45.8,
+                    "category": "Work Ethic"
+                },
+                {
+                    "weeklyRatings": [5],
+                    "name": "Eating",
+                    "rating": 57.1,
+                    "category": "Work Ethic"
+                },
+                {
+                    "weeklyRatings": [6],
+                    "name": "Integrity",
+                    "rating": 58.8,
+                    "category": "Work Ethic"
+                },
+                {
+                    "weeklyRatings": [0],
+                    "name": "Training",
+                    "rating": 5.6,
+                    "category": "Work Ethic"
+                },
+                {
+                    "weeklyRatings": [4],
+                    "name": "Discpline",
+                    "rating": 59.1,
+                    "category": "Work Ethic"
+                },
+                {
+                    "weeklyRatings": [7],
+                    "name": "Meditation",
+                    "rating": 42.3,
+                    "category": "Work Ethic"
+                },
+                {
+                    "weeklyRatings": [8],
+                    "name": "Values",
+                    "rating": 54.6,
+                    "category": "Work Ethic"
+                },
+                {
+                    "weeklyRatings": [5],
+                    "name": "Hustle",
+                    "rating": 59,
+                    "category": "Work Ethic"
+                }
+            ]
+        },
+        {
+            "name": "Social Skills",
+            "rating": 58.6,
+            "attributes": [
+                {
+                    "weeklyRatings": [7],
+                    "name": "Honesty",
+                    "rating": 59.1,
+                    "category": "Social Skills"
+                },
+                {
+                    "weeklyRatings": [6],
+                    "name": "Kindness",
+                    "rating": 59,
+                    "category": "Social Skills"
+                },
+                {
+                    "weeklyRatings": [7],
+                    "name": "Respect",
+                    "rating": 60.8,
+                    "category": "Social Skills"
+                },
+                {
+                    "weeklyRatings": [7],
+                    "name": "Charisma",
+                    "rating": 61.3,
+                    "category": "Social Skills"
+                },
+                {
+                    "weeklyRatings": [7],
+                    "name": "Humour",
+                    "rating": 61.4,
+                    "category": "Social Skills"
+                },
+                {
+                    "weeklyRatings": [8],
+                    "name": "Analyzing",
+                    "rating": 59.8,
+                    "category": "Social Skills"
+                },
+                {
+                    "weeklyRatings": [6],
+                    "name": "Game",
+                    "rating": 44.9,
+                    "category": "Social Skills"
+                },
+                {
+                    "weeklyRatings": [7],
+                    "name": "Leadership",
+                    "rating": 59.1,
+                    "category": "Social Skills"
+                },
+                {
+                    "weeklyRatings": [7],
+                    "name": "Social Interactions",
+                    "rating": 59.9,
+                    "category": "Social Skills"
+                },
+                {
+                    "weeklyRatings": [8],
+                    "name": "Influence",
+                    "rating": 60.9,
+                    "category": "Social Skills"
+                }
+            ]
+        }
+    ]
+}
