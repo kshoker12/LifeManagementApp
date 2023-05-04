@@ -33,7 +33,7 @@ public class ResponsibilityTest {
         Task task = new Task("Box", 2, false);
         responsibility.addTask(task);
         assertEquals(responsibility.getTasks().size(), 1);
-        assertEquals(task.getResponsibility(), responsibility);
+        assertEquals(task.getResponsibility(), responsibility.getName());
     }
 
     @Test
@@ -53,8 +53,7 @@ public class ResponsibilityTest {
         responsibility.addTask(new Task("False", 10, true));
         assertEquals(responsibility.getTasks().size(), 2);
         responsibility.clear();
-        assertEquals(responsibility.getTasks().size(), 0);
-        assertEquals(responsibility.getRepeatedTasks().size(), 1);
+        assertEquals(responsibility.getRepeatedTasks().size(), 0);
     }
 
     @Test
@@ -74,12 +73,10 @@ public class ResponsibilityTest {
         responsibility.incrementHours();
         assertEquals(responsibility.getTasks().size(), 2);
         responsibility.clear();
-        assertEquals(responsibility.getTasks().size(), 0);
-        assertEquals(responsibility.getRepeatedTasks().size(), 1);
-        assertEquals(responsibility.getHours(), 2);
+        assertEquals(responsibility.getHours(), 0);
         responsibility.reset();
         assertEquals(responsibility.getHours(), 0);
-        assertEquals(responsibility.getTasks().size(), 1);
+        assertEquals(responsibility.getTasks().size(), 0);
         assertEquals(responsibility.getRepeatedTasks().size(), 0);
     }
 

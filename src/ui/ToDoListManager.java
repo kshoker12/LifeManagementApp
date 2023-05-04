@@ -1,6 +1,6 @@
 package ui;
 
-import Model.Beastmode;
+import Model.App;
 import Model.Responsibility;
 import Model.SubTask;
 import Model.Task;
@@ -13,11 +13,11 @@ import java.util.List;
 
 public class ToDoListManager {
     private EastPanelManager eastPanelManager;
-    private Beastmode beastMode;
+    private App beastMode;
     private WestPanelManager westPanelManager;
 
 
-    public ToDoListManager(EastPanelManager eastPanelManager, Beastmode beastmode, WestPanelManager westPanelManager) {
+    public ToDoListManager(EastPanelManager eastPanelManager, App beastmode, WestPanelManager westPanelManager) {
         this.eastPanelManager = eastPanelManager;
         this.beastMode = beastmode;
         this.westPanelManager = westPanelManager;
@@ -397,7 +397,7 @@ public class ToDoListManager {
                     @Override
                     public void actionPerformed(ActionEvent e) {
 //                        eastPanelManager.show(task.getResponsibility().getName() + " View Panel");
-                        eastPanelManager.show(eastPanelManager.getLifeRatingApp().getBeastmode().findResponsibility(task.getResponsibility()).getName() + " ToDo Add");
+                        eastPanelManager.show(eastPanelManager.getLifeRatingApp().getApp().findResponsibility(task.getResponsibility()).getName() + " ToDo Add");
                     }
                 });
             }

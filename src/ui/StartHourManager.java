@@ -11,9 +11,9 @@ public class StartHourManager {
     private ToDoListManager toDoListManager;
     private EastPanelManager eastPanelManager;
     private ResponsibilityManager responsibilityManagerPanel;
-    private Beastmode beastmode;
+    private App beastmode;
 
-    public StartHourManager(ToDoListManager toDoListManager, EastPanelManager eastPanelManager, ResponsibilityManager responsibilityManagerPanel, Beastmode beastmode) {
+    public StartHourManager(ToDoListManager toDoListManager, EastPanelManager eastPanelManager, ResponsibilityManager responsibilityManagerPanel, App beastmode) {
         this.toDoListManager = toDoListManager;
         this.eastPanelManager = eastPanelManager;
         this.responsibilityManagerPanel = responsibilityManagerPanel;

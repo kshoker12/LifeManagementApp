@@ -8,7 +8,7 @@ public class Main {
 
             @Override
             public void run() {
-                BeastModeApp main = new BeastModeApp();
+                LifeManagementApp main = new LifeManagementApp();
                 main.setVisible(true);
             }
         });

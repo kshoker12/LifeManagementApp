@@ -11,10 +11,10 @@ public class EastPanelManager {
     private RatingSystem ratingSystem;
     private JPanel eastPanel;
     private CardLayout layoutEast;
-    private BeastModeApp lifeRatingApp;
+    private LifeManagementApp lifeRatingApp;
     private List<Attribute> updateList;
 
-    public EastPanelManager(RatingSystem ratingSystem, BeastModeApp lifeRatingApp) {
+    public EastPanelManager(RatingSystem ratingSystem, LifeManagementApp lifeRatingApp) {
         this.ratingSystem = ratingSystem;
         this.lifeRatingApp = lifeRatingApp;
         layoutEast = new CardLayout();
@@ -25,7 +25,7 @@ public class EastPanelManager {
         layoutEast.show(eastPanel, "Blank Panel");
     }
 
-    public BeastModeApp getLifeRatingApp() {
+    public LifeManagementApp getLifeRatingApp() {
         return lifeRatingApp;
     }
 
@@ -129,7 +129,7 @@ public class EastPanelManager {
         }
 
         private void initResponsibilityHours() {
-            for (Responsibility next: lifeRatingApp.getBeastmode().getResponsibilities()) {
+            for (Responsibility next: lifeRatingApp.getApp().getResponsibilities()) {
                 JTextField responsibilityLabels = new JTextField(next.getName() + " - Hours: " + next.getHours());
                 responsibilityLabels.setBackground(Color.darkGray);
                 responsibilityLabels.setFont(new Font("Arial", Font.BOLD, 16));
@@ -140,7 +140,7 @@ public class EastPanelManager {
         }
 
         private void initTotalHours() {
-            JLabel hoursLabel = new JLabel("Total Hours: " + lifeRatingApp.getBeastmode().getHours());
+            JLabel hoursLabel = new JLabel("Total Hours: " + lifeRatingApp.getApp().getHours());
             hoursLabel.setBackground(Color.darkGray);
             hoursLabel.setFont(new Font("Arial", Font.BOLD, 20));
             hoursLabel.setPreferredSize(new Dimension(276, 25));
@@ -149,7 +149,7 @@ public class EastPanelManager {
         }
 
         private void initLabel() {
-            JTextField beastModeLabel = new JTextField("BeastMode");
+            JTextField beastModeLabel = new JTextField("Life Management App");
             beastModeLabel.setBackground(Color.darkGray);
             beastModeLabel.setFont(new Font("Arial", Font.BOLD, 20));
             beastModeLabel.setPreferredSize(new Dimension(285, 50));
@@ -160,7 +160,7 @@ public class EastPanelManager {
         }
 
         private void initImage() {
-            ImageIcon image = new ImageIcon("./Data/beastmode.png");
+            ImageIcon image = new ImageIcon("./Data/setting_icon.jpg");
             JLabel imagePanel = new JLabel();
             imagePanel.setIcon(image);
             imagePanel.setIconTextGap(10);

@@ -21,26 +21,14 @@ public class HourlyList implements Iterable<SubTask>, Writable {
         return subTaskList;
     }
 
-//    public void initSubTaskList(List<Task> toDoList) {
-//        subTaskList = new ArrayList<>();
-//        if (task != null) {
-//            for (Task task: toDoList) {
-//                for (SubTask subTask: task.getSubTasks()) {
-//                    if (!subTask.getIsCompleted()) {
-//                        subTaskList.add(subTask);
-//                    }
-//                }
-//            }
-//        }
-//    }
-public void initSubTaskList(List<SubTask> toDoList) {
-    subTaskList = new ArrayList<>();
-    for (SubTask subTask: toDoList) {
-        if (!subTask.getIsCompleted()) {
-            subTaskList.add(subTask);
+    public void initSubTaskList(List<SubTask> toDoList) {
+        subTaskList = new ArrayList<>();
+        for (SubTask subTask: toDoList) {
+            if (!subTask.getIsCompleted()) {
+                subTaskList.add(subTask);
+            }
         }
     }
-}
 
 
 

@@ -1,22 +1,22 @@
 package ui;
 
-import Model.Beastmode;
+import Model.App;
 
 import javax.swing.*;
 import java.awt.*;
 
 public class WestPanelManager {
-    private BeastModeApp beastModeApp;
+    private LifeManagementApp beastModeApp;
     private JPanel mainPanel;
     private CardLayout layoutWest;
     private MainMenu mainMenu;
     private EastPanelManager eastPanelManager;
-    private Beastmode beastmode;
+    private App beastmode;
     private ResponsibilityManager responsibilityPanel;
     private ToDoListManager toDoListManager;
     private StartHourManager startHourManager;
 
-    public WestPanelManager(BeastModeApp beastModeApp, EastPanelManager eastPanelManager, Beastmode beastmode) {
+    public WestPanelManager(LifeManagementApp beastModeApp, EastPanelManager eastPanelManager, App beastmode) {
         this.beastModeApp = beastModeApp;
         this.beastmode = beastmode;
         layoutWest = new CardLayout();

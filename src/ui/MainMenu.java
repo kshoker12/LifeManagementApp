@@ -8,9 +8,9 @@ import java.awt.event.ActionListener;
 public class MainMenu extends JPanel {
     private WestPanelManager westPanelManager;
     private EastPanelManager eastPanelManager;
-    private BeastModeApp beastModeApp;
+    private LifeManagementApp beastModeApp;
 
-    public MainMenu(WestPanelManager westPanelManager, BeastModeApp beastModeApp, EastPanelManager eastPanelManager) {
+    public MainMenu(WestPanelManager westPanelManager, LifeManagementApp beastModeApp, EastPanelManager eastPanelManager) {
         super(new GridLayout(10, 1, 10, 10));
         setLayout(new FlowLayout(FlowLayout.RIGHT, 10, 5));
         setPreferredSize(new Dimension(300, 600));
@@ -24,7 +24,6 @@ public class MainMenu extends JPanel {
     private void initPanel() {
         initImage();
         initLifeRatingButton();
-        initSelfImage();
         initResponsibility();
         initTodoList();
         initHour();
@@ -61,20 +60,6 @@ public class MainMenu extends JPanel {
         });
     }
 
-    private void initSelfImage() {
-        JButton selfImageButton = new JButton("Self-Image");
-        add(selfImageButton);
-        selfImageButton.setPreferredSize(new Dimension(280,30));
-        selfImageButton.setFont(new Font("Arial", Font.BOLD, 20));
-        selfImageButton.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                eastPanelManager.show("Main Trait Panel");
-                westPanelManager.show("Trait Menu");
-            }
-        });
-    }
-
     private void initPrompts() {
         JButton promptButton = new JButton("Daily Prompts");
         add(promptButton);
@@ -90,7 +75,7 @@ public class MainMenu extends JPanel {
     }
 
     private void initImage() {
-        ImageIcon image = new ImageIcon("./Data/tonyFerg.jpg");
+        ImageIcon image = new ImageIcon("./Data/BoxingGloves.jpg");
         JLabel imagePanel = new JLabel();
         imagePanel.setIcon(image);
         imagePanel.setIconTextGap(10);
@@ -118,10 +103,9 @@ public class MainMenu extends JPanel {
         exit.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                beastModeApp.saveRoutine();
-                beastModeApp.saveRoutine1();
-                beastModeApp.saveRoutine2();
-                beastModeApp.saveSelfImage();
+                beastModeApp.saveRatingSystem();
+                beastModeApp.saveApp();
+                beastModeApp.savePromptsSystem();
                 beastModeApp.saveCompass();
                 beastModeApp.saveSolutions();
                 beastModeApp.dispose();

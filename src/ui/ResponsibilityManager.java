@@ -1,6 +1,6 @@
 package ui;
 
-import Model.Beastmode;
+import Model.App;
 import Model.Responsibility;
 import Model.SubTask;
 import Model.Task;
@@ -11,14 +11,14 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class ResponsibilityManager {
-    private Beastmode beastmode;
+    private App beastmode;
     private EastPanelManager eastPanelManager;
     private JPanel responsibilityPanel;
     private JPanel responsibilityManagePanel;
     private JTextField textField;
     private ToDoListManager toDoListManager;
 
-    public ResponsibilityManager(Beastmode beastmode, EastPanelManager eastManager, ToDoListManager toDoListManager) {
+    public ResponsibilityManager(App beastmode, EastPanelManager eastManager, ToDoListManager toDoListManager) {
         this.beastmode = beastmode;
         this.eastPanelManager = eastManager;
         this.toDoListManager = toDoListManager;
@@ -217,9 +217,9 @@ public class ResponsibilityManager {
         }
 
         private class ResponsibilityRemovePanel extends JPanel {
-            private Beastmode beastmode;
+            private App beastmode;
 
-            public ResponsibilityRemovePanel(Beastmode beastmode) {
+            public ResponsibilityRemovePanel(App beastmode) {
                 super(new GridLayout(10, 1, 10, 10));
                 setLayout(new FlowLayout(FlowLayout.RIGHT, 10, 5));
                 setPreferredSize(new Dimension(300, 600));

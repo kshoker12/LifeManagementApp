@@ -7,7 +7,7 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Beastmode implements Writable {
+public class App implements Writable {
     private String name;
 //    private List<Task> todoList;
     private List<SubTask> todoList;
@@ -17,7 +17,7 @@ public class Beastmode implements Writable {
     private HourlyList hourlyList;
     private HourNum hourNum;
 
-    public Beastmode(String name) {
+    public App(String name) {
         this.name = name;
         this.todoList = new ArrayList<>();
         this.responsibilities = new ArrayList<>();
@@ -45,17 +45,6 @@ public class Beastmode implements Writable {
         return hourlyList;
     }
 
-//    public void initHourlyList() {
-//        Task task = null;
-//        for (Task next: todoList) {
-//            if (!next.getIsCompleted()) {
-//                task = next;
-//                break;
-//            }
-//        }
-//        hourlyList = new HourlyList(task);
-//        hourlyList.initSubTaskList(todoList);
-//    }
     public void initHourlyList() {
         Task task = null;
         for (SubTask next: todoList) {

@@ -116,7 +116,7 @@
                 },
                 {
                     "weeklyRatings": [4],
-                    "name": "Discpline",
+                    "name": "Discipline",
                     "rating": 59.1,
                     "category": "Work Ethic"
                 },
@@ -178,12 +178,6 @@
                     "weeklyRatings": [8],
                     "name": "Analyzing",
                     "rating": 59.8,
-                    "category": "Social Skills"
-                },
-                {
-                    "weeklyRatings": [6],
-                    "name": "Game",
-                    "rating": 44.9,
                     "category": "Social Skills"
                 },
                 {

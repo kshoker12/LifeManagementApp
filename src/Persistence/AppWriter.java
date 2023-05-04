@@ -1,20 +1,20 @@
 package Persistence;
 
-import Model.Beastmode;
+import Model.App;
 import org.json.JSONObject;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
-public class BeastmodeWriter {
+public class AppWriter {
     private static final int TAB = 4;
     private String destination;
     private PrintWriter writer;
 
 
     // EFFECTS: constructs writer to write to destination file
-    public BeastmodeWriter(String destination) {
+    public AppWriter(String destination) {
         this.destination = destination;
     }
 
@@ -33,7 +33,7 @@ public class BeastmodeWriter {
 
     // MODIFIES: this
     // EFFECTS: writes JSON representation of workroom to file
-    public void write(Beastmode beastmode) {
+    public void write(App beastmode) {
         JSONObject json = beastmode.toJson();
         saveToFile(json.toString(TAB));
     }

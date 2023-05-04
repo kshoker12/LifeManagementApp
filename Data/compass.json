@@ -2,61 +2,61 @@
     "destinationList": [
         {
             "earned": -1,
-            "name": "4 Hours Daily",
+            "name": "40 Hours Total",
             "finish": false,
             "point": 10
         },
         {
             "earned": -1,
-            "name": "Read Design Patterns",
+            "name": "Read 1 Hour Daily",
             "finish": false,
             "point": 9
         },
         {
             "earned": -1,
-            "name": "Read Rules Daily",
+            "name": "Apply for 5 Co-op Positions Daily",
             "finish": false,
             "point": 8
         },
         {
             "earned": -1,
-            "name": "Train Daily",
+            "name": "Meditate Daily",
             "finish": false,
             "point": 7
         },
         {
             "earned": -1,
-            "name": "Meditate Daily",
+            "name": "Train Daily",
             "finish": false,
             "point": 6
         },
         {
             "earned": -1,
-            "name": "1200+ Chess",
+            "name": "Walks Daily",
             "finish": false,
             "point": 5
         },
         {
             "earned": -1,
-            "name": "Frame Control",
+            "name": "Express Gratitude Daily",
             "finish": false,
             "point": 4
         },
         {
             "earned": -1,
-            "name": "Hair Shower",
+            "name": "Plank Daily",
             "finish": false,
             "point": 3
         },
         {
             "earned": -1,
-            "name": "Skin-Care",
+            "name": "Study Boxing Highlights",
             "finish": false,
             "point": 2
         },
         {
             "earned": -1,
-            "name": "Plank Daily",
+            "name": "Refill Water Bottle 3x Daily",
             "finish": false,
             "point": 1
         }

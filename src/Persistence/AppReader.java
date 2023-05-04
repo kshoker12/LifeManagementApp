@@ -11,26 +11,26 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.stream.Stream;
 
-public class BeastmodeReader {
+public class AppReader {
     private String source;
 
     // EFFECTS: constructs reader to read from source file
-    public BeastmodeReader(String source) {
+    public AppReader(String source) {
         this.source = source;
     }
 
     // EFFECTS: reads workroom from file and returns it;
     // throws IOException if an error occurs reading data from file
-    public Beastmode read() throws IOException {
+    public App read() throws IOException {
         String jsonData = readFile(source);
         JSONObject jsonObject = new JSONObject(jsonData);
         return parseBeastmode(jsonObject);
     }
 
     // EFFECTS: parses workroom from JSON object and returns it
-    private Beastmode parseBeastmode(JSONObject jsonObject) {
+    private App parseBeastmode(JSONObject jsonObject) {
         String name = jsonObject.getString("name");
-        Beastmode beastmode = new Beastmode(name);
+        App beastmode = new App(name);
         int hours = jsonObject.getInt("hours");
         beastmode.setHours(hours);
         addResponsibilities(beastmode, jsonObject);
@@ -47,7 +47,7 @@ public class BeastmodeReader {
         return beastmode;
     }
 
-    private void addHourlyList(Beastmode beastmode, JSONObject hourlyList) {
+    private void addHourlyList(App beastmode, JSONObject hourlyList) {
         HourlyList hourlyList1;
         try {
             Task task = readTask(hourlyList.getJSONObject("task"));
@@ -63,13 +63,13 @@ public class BeastmodeReader {
         beastmode.setHourlyList(hourlyList1);
     }
 
-    private void addHourNum(Beastmode beastmode, JSONObject jsonObject) {
+    private void addHourNum(App beastmode, JSONObject jsonObject) {
         HourNum hourNum = new HourNum();
         hourNum.setHour(jsonObject.getInt("hour"));
         beastmode.setHourNum(hourNum);
     }
 
-    private void addToDoList(Beastmode beastmode, JSONObject jsonObject) {
+    private void addToDoList(App beastmode, JSONObject jsonObject) {
         JSONArray todoList = jsonObject.getJSONArray("todoList");
         for (Object obj: todoList) {
             JSONObject todo = (JSONObject) obj;
@@ -80,7 +80,7 @@ public class BeastmodeReader {
 
     // MODIFIES: wr
     // EFFECTS: parses thingies from JSON object and adds them to workroom
-    private void addResponsibilities(Beastmode beastmode, JSONObject jsonObject) {
+    private void addResponsibilities(App beastmode, JSONObject jsonObject) {
         JSONArray responsibilities = jsonObject.getJSONArray("responsibilities");
         for (Object obj : responsibilities) {
             JSONObject resp = (JSONObject) obj;
