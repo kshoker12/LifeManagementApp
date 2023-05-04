@@ -6,7 +6,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class WestPanelManager {
-    private LifeManagementApp beastModeApp;
+    private LifeManagement beastModeApp;
     private JPanel mainPanel;
     private CardLayout layoutWest;
     private MainMenu mainMenu;
@@ -16,7 +16,7 @@ public class WestPanelManager {
     private ToDoListManager toDoListManager;
     private StartHourManager startHourManager;
 
-    public WestPanelManager(LifeManagementApp beastModeApp, EastPanelManager eastPanelManager, App beastmode) {
+    public WestPanelManager(LifeManagement beastModeApp, EastPanelManager eastPanelManager, App beastmode) {
         this.beastModeApp = beastModeApp;
         this.beastmode = beastmode;
         layoutWest = new CardLayout();

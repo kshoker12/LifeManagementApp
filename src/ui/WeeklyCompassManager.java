@@ -11,12 +11,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class WeeklyCompassManager {
-    private LifeManagementApp beastModeApp;
+    private LifeManagement beastModeApp;
     private EastPanelManager eastPanelManager;
     private WestPanelManager westPanelManager;
     private WeeklyCompass weeklyCompass;
 
-    public WeeklyCompassManager(LifeManagementApp beastModeApp, EastPanelManager eastPanelManager, WestPanelManager westPanelManager, WeeklyCompass weeklyCompass) {
+    public WeeklyCompassManager(LifeManagement beastModeApp, EastPanelManager eastPanelManager, WestPanelManager westPanelManager, WeeklyCompass weeklyCompass) {
         this.beastModeApp = beastModeApp;
         this.westPanelManager = westPanelManager;
         this.eastPanelManager = eastPanelManager;

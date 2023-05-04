@@ -11,10 +11,10 @@ public class EastPanelManager {
     private RatingSystem ratingSystem;
     private JPanel eastPanel;
     private CardLayout layoutEast;
-    private LifeManagementApp lifeRatingApp;
+    private LifeManagement lifeRatingApp;
     private List<Attribute> updateList;
 
-    public EastPanelManager(RatingSystem ratingSystem, LifeManagementApp lifeRatingApp) {
+    public EastPanelManager(RatingSystem ratingSystem, LifeManagement lifeRatingApp) {
         this.ratingSystem = ratingSystem;
         this.lifeRatingApp = lifeRatingApp;
         layoutEast = new CardLayout();
@@ -25,7 +25,7 @@ public class EastPanelManager {
         layoutEast.show(eastPanel, "Blank Panel");
     }
 
-    public LifeManagementApp getLifeRatingApp() {
+    public LifeManagement getLifeRatingApp() {
         return lifeRatingApp;
     }
 

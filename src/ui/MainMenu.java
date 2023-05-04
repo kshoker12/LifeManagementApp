@@ -8,9 +8,9 @@ import java.awt.event.ActionListener;
 public class MainMenu extends JPanel {
     private WestPanelManager westPanelManager;
     private EastPanelManager eastPanelManager;
-    private LifeManagementApp beastModeApp;
+    private LifeManagement beastModeApp;
 
-    public MainMenu(WestPanelManager westPanelManager, LifeManagementApp beastModeApp, EastPanelManager eastPanelManager) {
+    public MainMenu(WestPanelManager westPanelManager, LifeManagement beastModeApp, EastPanelManager eastPanelManager) {
         super(new GridLayout(10, 1, 10, 10));
         setLayout(new FlowLayout(FlowLayout.RIGHT, 10, 5));
         setPreferredSize(new Dimension(300, 600));
